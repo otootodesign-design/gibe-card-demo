@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Bar Moro;;;
+FN:Bar Moro
+ORG:Bar Moro
+TEL;TYPE=WORK,VOICE:+393200000000
+EMAIL;TYPE=WORK:info@barmoro.example
+URL:https://www.example.com
+ADR;TYPE=WORK:;;Via Roma 12;Otranto;LE;73028;Italia
+NOTE:Biglietto digitale by GIBE Studio
+END:VCARD

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 1080" width="1440" height="1080" role="img" aria-label="Bar Moro">
+  <rect width="1440" height="1080" fill="#f3e9d8"/>
+  <g fill="none" stroke="#2b2016" stroke-width="9" opacity=".28">
+    <circle cx="720" cy="404" r="132"/>
+  </g>
+  <g fill="#2b2016">
+    <path d="M654 356h132a46 46 0 0 1 0 92h-132z" opacity=".9"/>
+    <path d="M654 356h132a46 46 0 0 1 0 92h-132z" opacity="0"/>
+    <text x="720" y="640" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="132" letter-spacing="6">BAR MORO</text>
+    <text x="720" y="722" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="44" letter-spacing="18" opacity=".55">OTRANTO</text>
+  </g>
+  <rect x="600" y="768" width="240" height="4" fill="#2b2016" opacity=".35"/>
+</svg>
